@@ -229,7 +229,7 @@ cd C:\xampp\htdocs
 ### 3. **Clona el repositorio**
 
 ```bash
-git clone https://github.com/usuario/proyecto.git
+https://github.com/scorpionGR-13/abc.git
 ```
 
 ---
